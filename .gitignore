@@ -1,0 +1,47 @@
+# Android Studio
+*.iml
+.idea/
+.gradle/
+
+# Local configuration
+local.properties
+
+# Build folders
+build/
+*/build/
+
+# Captures
+captures/
+
+# Native build
+.externalNativeBuild/
+.cxx/
+
+# macOS
+.DS_Store
+
+# Kotlin
+.kotlin/
+
+# Logs
+*.log
+
+# Firebase
+app/google-services.json
+
+# Generated files
+generated/
+
+# APKs
+*.apk
+*.aab
+
+# Keystore
+*.jks
+*.keystore
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
